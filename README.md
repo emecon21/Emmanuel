@@ -1,4 +1,3 @@
-# Networking-and-Cybersecurity-Labs
 Hi, I'm Emmanuel. I am an aspiring Network Engineer and Cybersecurity Professional
 
 This repository contains my hands-on labs, projects and notes as I learn and grow in my career 
