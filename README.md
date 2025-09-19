@@ -11,7 +11,7 @@ This repository contains my hands-on labs, projects and notes as I learn and gro
 
 
 ## Projects 
-- [Home LAN Project]([https://github.com/emcon21/home-lan](https://github.com/emecon21/Home-LAN))
+- [Home LAN Project]
 
   Designed and configured a small office LAN with VLANs, routing, and testing
   
