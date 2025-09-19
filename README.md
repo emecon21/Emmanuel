@@ -11,19 +11,19 @@ This repository contains my hands-on labs, projects and notes as I learn and gro
 
 
 ## Projects 
-- [Home LAN Project]
+- Home LAN Project (https://github.com/emecon21/Home-LAN)
 
   Designed and configured a small office LAN with VLANs, routing, and testing
   
-- [Cisco Packet Tracer Labs]
+- Cisco Packet Tracer Labs
 
   A collection of networking labs (VLANs, OSPF, EIGRP, ACLs) built in Cisco Packet Tracer
     
-- [OWASP Juice Shop Pen-Test]
+- OWASP Juice Shop Pen-Test
 
   Explored OWASP Top 10 vulnerabilities and documented findings with remediation
    
-- [Nessus Vulnerability Assessment]
+- Nessus Vulnerability Assessment
 
   Conducted a professional vulnerability assessment using Tenable Nessus. Includes scan setup, findings, remediation plan, and reports 
 
