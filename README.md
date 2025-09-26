@@ -11,13 +11,10 @@ This repository contains my hands-on labs, projects and notes as I learn and gro
 
 
 ## Projects 
-- Home LAN Project (https://github.com/emecon21/Home-LAN)
-
-  Designed and configured a small office LAN with VLANs, routing, and testing
   
 - Cisco Packet Tracer Labs
 
-  A collection of networking labs (VLANs, OSPF, EIGRP, ACLs) built in Cisco Packet Tracer
+  A collection of networking labs (VLANs, OSPF, DHCP, ACLs) built in Cisco Packet Tracer
     
 - OWASP Juice Shop Pen-Test
 
